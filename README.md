@@ -1,15 +1,13 @@
 ## Welcome to the GitHub Repositories of Anselm Baur
 
 
-Physical beginner practicum:
+###Physical beginner practicum:<br/>
+P1: [https://github.com/anselm-baur/p1](https://github.com/anselm-baur/p1)<br/>
+P2: [https://github.com/anselm-baur/p2](https://github.com/anselm-baur/p2)<br/>
 
-P1: [https://github.com/anselm-baur/p1](https://github.com/anselm-baur/p1)\n
-P2: [https://github.com/anselm-baur/p2](https://github.com/anselm-baur/p2)
 
-
-Physical advanced practicum:
-
-P3: https://github.com/anselm-baur/p3
+###Physical advanced practicum:<br/>
+P3: [https://github.com/anselm-baur/p3](https://github.com/anselm-baur/p3)
 
 
 
