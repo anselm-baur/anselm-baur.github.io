@@ -5,7 +5,7 @@
 
 ### Histogram and Style Templates used for my [PhD Thesis](	https://ediss.sub.uni-hamburg.de/handle/ediss/11711)
 * [b2analysis](https://github.com/anselm-baur/b2analysis) (histogram)
-* [b2analysis](https://github.com/anselm-baur/b2style) (plot style)
+* [b2style](https://github.com/anselm-baur/b2style) (plot style)
 
 ### Creating Virtual Environments on DESY NAF in Combination With Jupyter Notebooks
 *  [naf_venv](https://github.com/anselm-baur/naf_venv)
