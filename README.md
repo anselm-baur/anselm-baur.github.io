@@ -1,9 +1,11 @@
 ## Welcome to the GitHub Repositories of Anselm Baur
 
+### GitHub Actions and Workflows for Software Development
+* [github_workflow_example](https://github.com/anselm-baur/github_workflow_example)
 
-### Python Templates for Data Analysis and Curve Fitting
-[1] [https://anselm-baur.github.io/python_templates/](https://anselm-baur.github.io/python_templates/)
+### Histogram and Style Templates used for my [PhD Thesis](	https://ediss.sub.uni-hamburg.de/handle/ediss/11711)
+* [b2analysis](https://github.com/anselm-baur/b2analysis) (histogram)
+* [b2analysis](https://github.com/anselm-baur/b2style) (plot style)
 
-### Some useful ROOT documentations
-[2] [https://root.cern.ch/root/htmldoc/guides/users-guide/](https://root.cern.ch/root/htmldoc/guides/users-guide/)<br>
-[3] [https://root.cern.ch/root/htmldoc/guides/users-guide/ROOTUsersGuide.html#pyroot-overview](https://root.cern.ch/root/htmldoc/guides/users-guide/ROOTUsersGuide.html#pyroot-overview)
+### Creating Virtual Environments on DESY NAF in Combination With Jupyter Notebooks
+*  [naf_venv](https://github.com/anselm-baur/naf_venv)
